@@ -12,7 +12,7 @@ Save the few annoying seconds needed to reach the _Edit -> Project settings -> E
 
 ## Install
 ### Unity package (easiest)
-Simply [download the unity package file in the releases](https://github.com/Telroshan/Unity-fast-enter-play-mode-toggle/releases/download/1.0/FastEnterPlayMode.unitypackage) and double click it (or import it in Unity)
+Simply [download the unity package file in the releases](https://github.com/Telroshan/Unity-fast-enter-play-mode-toggle/releases/download/1.0/Fast-enter-play-mode-toggle.unitypackage) and double click it (or import it in Unity)
 ### Or clone the repo
 [Download this repo](https://github.com/Telroshan/Unity-fast-enter-play-mode-toggle/archive/master.zip) and place it in your Unity project's Assets folder.
 
