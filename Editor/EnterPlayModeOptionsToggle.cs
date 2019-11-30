@@ -1,9 +1,8 @@
 ﻿using UnityEditor;
-using UnityEngine;
 
-namespace FastEnterPlayModeToggle.Editor
+namespace EnterPlayModeOptionsToggle.Editor
 {
-    public static class FastEnterPlayModeToggle
+    public static class EnterPlayModeOptionsToggle
     {
         [MenuItem("Fast Enter Play Mode/Enable", priority = 0)]
         public static void Enable()
