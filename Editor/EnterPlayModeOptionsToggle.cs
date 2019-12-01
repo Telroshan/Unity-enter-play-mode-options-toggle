@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace EnterPlayModeOptionsToggle.Editor
+namespace TelroshanTools.EnterPlayModeOptionsToggle.Editor
 {
     public static class EnterPlayModeOptionsToggle
     {
